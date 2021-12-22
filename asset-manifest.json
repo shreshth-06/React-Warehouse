@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-warehouse-assignment/static/css/main.657a4afe.css",
+    "main.js": "/react-warehouse-assignment/static/js/main.2b5ae2ee.js",
+    "static/js/787.835ea0d1.chunk.js": "/react-warehouse-assignment/static/js/787.835ea0d1.chunk.js",
+    "static/media/stockarea.jpg": "/react-warehouse-assignment/static/media/stockarea.a4fa2488e2be272af46e.jpg",
+    "index.html": "/react-warehouse-assignment/index.html",
+    "main.657a4afe.css.map": "/react-warehouse-assignment/static/css/main.657a4afe.css.map",
+    "main.2b5ae2ee.js.map": "/react-warehouse-assignment/static/js/main.2b5ae2ee.js.map",
+    "787.835ea0d1.chunk.js.map": "/react-warehouse-assignment/static/js/787.835ea0d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657a4afe.css",
+    "static/js/main.2b5ae2ee.js"
+  ]
+}
